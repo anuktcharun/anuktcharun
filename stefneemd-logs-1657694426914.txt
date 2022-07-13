@@ -1,0 +1,10 @@
+2022-07-13T06:37:08.409342+00:00 app[worker.1]: 0|stefanie  | }
+2022-07-13T06:38:12.717640+00:00 app[api]: Starting process with command `.menu` by user anukbabababa@gmail.com
+2022-07-13T06:38:23.542742+00:00 heroku[run.6663]: State changed from starting to up
+2022-07-13T06:38:23.614298+00:00 heroku[run.6663]: Awaiting client
+2022-07-13T06:38:23.631334+00:00 heroku[run.6663]: Starting process with command `.menu`
+2022-07-13T06:38:27.365392+00:00 heroku[run.6663]: Process exited with status 127
+2022-07-13T06:38:27.420810+00:00 heroku[run.6663]: State changed from up to complete
+2022-07-13T06:38:34.676774+00:00 heroku[router]: at=error code=H14 desc="No web processes running" method=GET path="/" host=stefneemd.herokuapp.com request_id=f70ee740-bf04-4acb-a84d-90e2aa97c988 fwd="123.231.122.12" dyno= connect= service= status=503 bytes= protocol=https
+2022-07-13T06:38:35.259314+00:00 heroku[router]: at=error code=H14 desc="No web processes running" method=GET path="/favicon.ico" host=stefneemd.herokuapp.com request_id=4451842f-5d32-4024-ac49-f3139aa426f0 fwd="123.231.122.12" dyno= connect= service= status=503 bytes= protocol=https
+2022-07-13T06:40:13.179193+00:00 heroku[router]: at=error code=H14 desc="No web processes running" method=GET path="/" host=stefneemd.herokuapp.com request_id=461ee832-46dd-457c-9844-b1b5d506b331 fwd="123.231.122.12" dyno= connect= service= status=503 bytes= protocol=https
